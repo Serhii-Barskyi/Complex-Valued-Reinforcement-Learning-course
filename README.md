@@ -10,7 +10,6 @@
 <ul>
   <li><a href="https://medium.com/@serhii.barskyi/complex-valued-reinforcement-learning-course-cfeb937bedc5">Advantages of CVRL.</a></li>
   <li><a href="https://medium.com/@serhii.barskyi/complex-valued-gradients-in-reinforcement-learning-560379a978ab">Complex-valued gradients in RL.</a></li>
-  <li>Complex-valued gradients in RL.</li>
   <li>Complex-valued functions in reinforcement learning.</li>
   <li>Representation of state-action values as complex numbers.</li>
   <li>Phase and amplitude in complex-valued RL.</li>
